@@ -1,0 +1,10 @@
+# InformartikLernatelier
+Planung 26.09.2025
+Hauptziele Geografie lernen
+Feinplannung:
+ 1. 7:45-9:30 => Zeitzonen umwandeln und ortszeiten ausrechnen
+ 2. 9:30-9:50 => Pause
+ 3. 9:50-10:30 => MIlonkovic Zyklen und ihre Auswirkung lernen
+ 4. 10:30-10:50 => Pause
+ 5. 10:50-11:30 => alles repetieren
+ 6. 11:45 => abschluss
