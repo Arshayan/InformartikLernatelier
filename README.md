@@ -8,3 +8,11 @@ Feinplannung:
  4. 10:30-10:50 => Pause
  5. 10:50-11:30 => alles repetieren
  6. 11:45 => abschluss
+Planung 13.03.2025
+
+Hauptziel vorwärzkommen bei Roblox Projekt mit Luan und Sayon
+Feinplannung:
+1. Namenschilder für basen desingen
+2. Namenschilder bei Basen placen
+3. Skript für spawning Progamieren
+4. ertes Minigame beginnen
