@@ -19,3 +19,11 @@ Feinplannung:
 2. Namenschilder bei Basen placen
 3. Skript für spawning Progamieren
 4. ertes Minigame beginnen
+
+
+
+Planung für Fr. 20.03.25
+
+Nächste woche will ich weiter kommen mit der GUI
+Ich will anfangen die groben pläne für das Programm zu machen 
+Ich muss dsa Modul 106 weiter machen
