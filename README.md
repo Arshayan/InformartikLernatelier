@@ -27,3 +27,12 @@ Planung für Fr. 20.03.25
 Nächste woche will ich weiter kommen mit der GUI
 Ich will anfangen die groben pläne für das Programm zu machen 
 Ich muss dsa Modul 106 weiter machen
+
+Lernperiode Reflexion
+
+Arshayan Rasikaran
+
+Ich habe in dieser Lernperiode wieder angefangen mit der Planung.
+Ich habe mit Luan und Sayon.
+Noten mässig habe ich bis jetzt eine 5.5 im INformatik
+Allgemein bin ich zu frieden mit der lernperiode
