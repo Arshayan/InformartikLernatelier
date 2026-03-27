@@ -33,6 +33,9 @@ Lernperiode Reflexion
 Arshayan Rasikaran
 
 Ich habe in dieser Lernperiode wieder angefangen mit der Planung.
+
 Ich habe mit Luan und Sayon.
+
 Noten mässig habe ich bis jetzt eine 5.5 im INformatik
+
 Allgemein bin ich zu frieden mit der lernperiode
