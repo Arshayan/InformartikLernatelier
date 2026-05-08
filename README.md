@@ -39,3 +39,14 @@ Ich habe mit Luan und Sayon.
 Noten mässig habe ich bis jetzt eine 5.5 im INformatik
 
 Allgemein bin ich zu frieden mit der lernperiode
+
+
+Feinplanung 08.05.2026
+
+.INO Code lernen/üben
+probieren erste Animation
+
+Fein planung 22.05.2026
+
+Arduino
+Französisch
