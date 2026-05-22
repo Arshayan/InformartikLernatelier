@@ -50,3 +50,10 @@ Fein planung 22.05.2026
 
 Arduino
 Französisch
+
+
+Feinplannung 29.05.2026
+
+HTML Modul nacharbeiten
+Projekt Idee für 122 finden
+Website weiter machen
