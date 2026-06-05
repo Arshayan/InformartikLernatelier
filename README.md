@@ -57,3 +57,49 @@ Feinplannung 29.05.2026
 HTML Modul nacharbeiten
 Projekt Idee für 122 finden
 Website weiter machen
+
+
+
+--
+
+
+# Lern-Periode 4
+
+- Name: Arshayan Rasikaran
+- Zeitraum: 05.06.2024 bis 12.06.2024
+
+## Grob-Planung
+
+### Noten
+ Sport ungenügend
+
+### Veränderungen
+
+-
+
+
+
+### Projekte / neue Technologien
+-Arduino
+-HTML
+-Python
+
+### Generelle Ziele
+bessere Noten allg
+
+## Tagesplanungen
+
+
+### Planung 05.06.2024
+3 bis 5 klar messbare Arbeitspakete.
+BIO lernen
+eigene Website erstellen
+Roblox spiel weiter machen
+- [x ] 
+- [ x] 
+- [X] 
+
+
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
