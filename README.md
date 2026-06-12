@@ -97,7 +97,15 @@ eigene Website erstellen
 Roblox spiel weiter machen
 - [x ] 
 - [ x] 
-- [X] 
+
+      
+### Planung 12.06.2024
+3 bis 5 klar messbare Arbeitspakete.
+Französisch vocabular
+Luau Skript weiter machen
+ Gui von spiel designen
+- [x ] 
+- [ x] 
 
 
 
